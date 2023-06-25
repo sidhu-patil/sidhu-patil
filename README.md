@@ -4,18 +4,16 @@
 - I'm a passionate app developer specializing in Dart and Flutter.
 - With expertise in Dart and Flutter, I enjoy creating cross-platform apps.
 - I also have a strong interest and experience in system-level application development using C and C++.
-- I enjoy the challenge of building robust and high-performance applications that interact closely with the underlying hardware and operating systems.
-  
+ 
 ## 🚀 Skills
 - Linux ( Kali Linux )
-- Dart & Flutter
-- Cross-platform App Development
+- Cross-platform App Development (Dart & Flutter)
 - System-level App Development (C, C++)
-- Scripting & Automation 
+- Scripting & Automation (Python3)
 - Object-Oriented Programming
 
-## 🌿 Technologies
-Here are some of the skills and technologies I work with:
+## 🌿 Languages & Technologies
+Here are some of the languages & technologies I work with:
 
 - 🎯 **Dart** and **Flutter** (Expert)
 - 🐍 **Python** (Expert)
@@ -23,9 +21,9 @@ Here are some of the skills and technologies I work with:
 - 🧪 **JavaScript** (Intermediate)
 - ⚙️ **C** and **C++** (Intermediate)
 - 📡 **PHP** (Intermediate)
-- 🔐 **MySQLi** (Intermediate)
+- 🛢️ **MySQLi** (Intermediate)
 - 🅱️ **Bootstrap** (Proficient)
-
+- 🧬 **JSON** (Piro 😂) 
 ## 📚 Libraries
 
 ### Python Library:
@@ -47,10 +45,16 @@ Apart from programming and app development, I have a strong passion for constant
 ## 📫 Connect with Me
 You can find me on the following platforms:
 
-- 🌐 [Personal Website](https://www.example.com)
-- 📧 [Email](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-
+<a href="https://www.github.com/sidhu-patil/">
+  <img align="left" alt="Sudhanshu Patil" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
+</a>
+<a href="https://www.instagram.com/sidhu_patil_._">
+  <img align="left" alt="Sudhanshu Patil" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sudhanshu-patil/">
+  <img align="left" alt="Sudhanshu Patil" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
+</a> 
+<br/>
+<br/>
 I'm always excited to connect with fellow tech enthusiasts and discuss our experiences in learning new technologies
 
