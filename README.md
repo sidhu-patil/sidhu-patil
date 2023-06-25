@@ -1,9 +1,11 @@
 # 👋 Hello, I'm Sudhanshu Patil!
 
 ## 💻 About Me
-🚀 Passionate Dart & Flutter developer crafting functional and visually stunning mobile apps for seamless cross-platform experiences. 📱 Experienced in system-level C/C++ development, building robust apps that interact closely with hardware and operating systems. Let's turn your ideas into remarkable digital solutions! 💡.
-I enjoy the challenge of building robust and high-performance applications that interact closely with the underlying hardware and operating systems.
-
+- I'm a passionate app developer specializing in Dart and Flutter.
+- With expertise in Dart and Flutter, I enjoy creating cross-platform apps.
+- I also have a strong interest and experience in system-level application development using C and C++.
+- I enjoy the challenge of building robust and high-performance applications that interact closely with the underlying hardware and operating systems.
+  
 ## 🚀 Skills
 - Linux ( Kali Linux )
 - Dart & Flutter
