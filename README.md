@@ -1,9 +1,8 @@
 # 👋 Hello, I'm Sudhanshu Patil!
 
 ## 💻 About Me
-I'm a passionate app developer specializing in Dart and Flutter. I love building mobile applications that are both functional and visually appealing. With expertise in Dart and Flutter, I enjoy creating cross-platform apps that provide seamless experiences across different devices and platforms.
-
-In addition to my focus on mobile app development, I also have a strong interest and experience in system-level application development using C and C++. I enjoy the challenge of building robust and high-performance applications that interact closely with the underlying hardware and operating systems.
+🚀 Passionate Dart & Flutter developer crafting functional and visually stunning mobile apps for seamless cross-platform experiences. 📱 Experienced in system-level C/C++ development, building robust apps that interact closely with hardware and operating systems. Let's turn your ideas into remarkable digital solutions! 💡.
+I enjoy the challenge of building robust and high-performance applications that interact closely with the underlying hardware and operating systems.
 
 ## 🚀 Skills
 - Linux ( Kali Linux )
@@ -27,14 +26,16 @@ Here are some of the skills and technologies I work with:
 
 ## 📚 Libraries
 
-### Python Library: HPComt
-- [HPComt](https://pypi.org/project/hpcomt/) is a Python library I developed. It has a special feature that allows it to detect Android OS. It provides functionality to simplify Android OS detection in your Python projects.
+### Python Library:
+#### [HPComt](https://pypi.org/project/hpcomt/) :
+ HPComt has a special feature that allows it to detect Android OS.
 
-### Dart Library: HTTP Requests
-- [HTTP Requests](https://pub.dev/packages/http_requests) is a Dart library inspired by the Python Requests module. It provides functionality for making HTTP requests and handling responses. You can use it in your Dart projects, particularly in REST API development.
+### Dart Library:
+#### [HTTP Requests](https://pub.dev/packages/http_requests) :
+ HTTP Requests is a Dart library inspired by the Python Requests module.
 
-### Dart Library: Delta_To_HTML
-- [Delta_To_HTML](https://pub.dev/packages/delta_to_html) is a Dart library that helps you convert Delta format (used by Quill rich text editor) to HTML. It simplifies the process of converting Delta to HTML in your Dart projects.
+#### [Delta To HTML](https://pub.dev/packages/delta_to_html) :
+ Delta To HTML is a Dart library that helps you convert Delta format  to HTML.
 
 Feel free to explore them and provide any feedback!
 
