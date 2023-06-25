@@ -1,25 +1,29 @@
 # 👋 Hello, I'm Sudhanshu Patil!
 
 ## 💻 About Me
-I'm a passionate app developer specializing in Dart and Flutter. I love building mobile applications that are both functional and visually appealing. Besides Flutter, I also have fundamental to intermediate knowledge in the following languages and technologies:
+I'm a passionate app developer specializing in Dart and Flutter. I love building mobile applications that are both functional and visually appealing. With expertise in Dart and Flutter, I enjoy creating cross-platform apps that provide seamless experiences across different devices and platforms.
 
-- 🐍 Python
-- ⚙️ C, C++
-- 🖥️ HTML, CSS, JavaScript
-- 📡 PHP
-- 🔐 SQLi
+In addition to my focus on mobile app development, I also have a strong interest and experience in system-level application development using C and C++. I enjoy the challenge of building robust and high-performance applications that interact closely with the underlying hardware and operating systems.
 
 ## 🚀 Skills
+- Linux ( Kali Linux )
+- Dart & Flutter
+- Cross-platform App Development
+- System-level App Development (C, C++)
+- Scripting & Automation 
+- Object-Oriented Programming
+
+## 🌿 Technologies
 Here are some of the skills and technologies I work with:
 
-- **Dart** and **Flutter** (Expert)
-- **Python** (Expert)
-- **HTML** and **CSS** (Expert)
-- **JavaScript** (Intermediate)
-- **C** and **C++** (Intermediate)
-- **PHP** (Intermediate)
-- **MySQLi** (Intermediate)
-- **Bootstrap** (Proficient)
+- 🎯 **Dart** and **Flutter** (Expert)
+- 🐍 **Python** (Expert)
+- 🖥️ **HTML** and **CSS** (Expert)
+- 🧪 **JavaScript** (Intermediate)
+- ⚙️ **C** and **C++** (Intermediate)
+- 📡 **PHP** (Intermediate)
+- 🔐 **MySQLi** (Intermediate)
+- 🅱️ **Bootstrap** (Proficient)
 
 ## 📚 Libraries
 
