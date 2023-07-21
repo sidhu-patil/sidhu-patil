@@ -10,16 +10,17 @@
 - Cross-platform App Development (Dart & Flutter)
 - System-level App Development (C, C++)
 - Scripting & Automation (Python3)
-- Object-Oriented Programming
+- Data Structures & Algorithm (DSA)
+- Object-Oriented Programming (OOPs)
 
 ## 🌿 Languages & Technologies
 Here are some of the languages & technologies I work with:
 
 - 🎯 **Dart** and **Flutter** (Expert)
 - 🐍 **Python** (Expert)
+- ⚙️ **C** and **C++** (Expert)
 - 🖥️ **HTML** and **CSS** (Expert)
 - 🧪 **JavaScript** (Intermediate)
-- ⚙️ **C** and **C++** (Intermediate)
 - 📡 **PHP** (Intermediate)
 - 🛢️ **MySQLi** (Intermediate)
 - 🅱️ **Bootstrap** (Proficient)
