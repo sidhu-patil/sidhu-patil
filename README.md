@@ -22,7 +22,7 @@ Here are some of the languages & technologies I work with:
 - 🖥️ **HTML** and **CSS** (Expert)
 - 🧪 **JavaScript** (Intermediate)
 - 📡 **PHP** (Intermediate)
-- 🛢️ **MySQLi** (Intermediate)
+- 🛢️ **SQLi** (Intermediate)
 - 🅱️ **Bootstrap** (Proficient)
 - 🧬 **JSON** (Piro 😂) 
 ## 📚 Libraries
