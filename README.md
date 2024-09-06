@@ -8,7 +8,6 @@
 ## 🚀 Skills
 - Linux ( Kali Linux )
 - Cross-platform App Development (Dart & Flutter)
-- System-level App Development (C, C++)
 - Scripting & Automation (Python3)
 - Data Structures & Algorithm (DSA)
 - Object-Oriented Programming (OOPs)
@@ -18,9 +17,7 @@ Here are some of the languages & technologies I work with:
 
 - 🎯 **Dart** and **Flutter** (Expert)
 - 🐍 **Python** (Expert)
-- ⚙️ **C** and **C++** (Expert)
-- 🖥️ **HTML** and **CSS** (Expert)
-- 🧪 **JavaScript** (Intermediate)
+- 🧪 **NodeJS** (Intermediate)
 - 📡 **PHP** (Intermediate)
 - 🛢️ **SQLi** (Intermediate)
 - 🅱️ **Bootstrap** (Proficient)
