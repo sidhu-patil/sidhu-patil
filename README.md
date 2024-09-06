@@ -3,7 +3,6 @@
 ## 💻 About Me
 - I'm a passionate app developer specializing in Dart and Flutter.
 - With expertise in Dart and Flutter, I enjoy creating cross-platform apps.
-- I also have a strong interest and experience in system-level application development using C and C++.
  
 ## 🚀 Skills
 - Linux ( Kali Linux )
