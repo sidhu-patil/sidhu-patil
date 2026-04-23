@@ -1,5 +1,5 @@
 ## > SOFTWARE.ENGINEER_
-Distributed Systems | Cyber Security Enthusiast | Security Researcher
+Distributed Systems | Security Researcher
 <p>Think like attacker, build like architect</p>
 
 ## 🧠 About Me
