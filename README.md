@@ -14,7 +14,7 @@ root@system:~$ cat profile.txt
 * Backend-focused engineer building scalable & distributed systems
 * Cyber Security enthusiast (Offensive + Defensive mindset)
 * Automation, scraping, reconnaissance & data pipelines
-* Linux power user
+* Deployment & DevOps
 
 ## ⚡ Tech Arsenal
 
@@ -78,6 +78,7 @@ root@system:~$ cat profile.txt
 * 🔹 API Design (REST / gRPC)
 * 🔹 Distributed Systems & Microservices
 * 🔹 Message Queues (Kafka, RabbitMQ)
+* 🔹 CI/CD, Docker, containerization & cloud-native workflows
 * 🔹 Web Scraping & Automation (Puppeteer, OSINT tools)
 * 🔹 Authentication / Security Hardening
 * 🔹 Reverse Engineering
